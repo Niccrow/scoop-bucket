@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "description": "Local-first runtime that builds and maintains persistent repository context for coding agents.",
   "homepage": "https://github.com/NicoMoralesDev/optimusctx",
   "license": "MIT",
@@ -11,12 +11,12 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/NicoMoralesDev/optimusctx/releases/download/v1.3.7/optimusctx_1.3.7_windows_amd64.zip",
-      "hash": "01a88fad4e5bc3bfa1119c1cc0d25c212236760f9e552426dd18b8d7a1102279"
+      "url": "https://github.com/NicoMoralesDev/optimusctx/releases/download/v1.3.8/optimusctx_1.3.8_windows_amd64.zip",
+      "hash": "38a1382221e677be602a294931383ed5f337084a979f714bcc4e166449ecccd8"
     },
     "arm64": {
-      "url": "https://github.com/NicoMoralesDev/optimusctx/releases/download/v1.3.7/optimusctx_1.3.7_windows_arm64.zip",
-      "hash": "2442fc4f53482db225666aff2434deb5d14f512be6049bd551d4b2045d28eaa9"
+      "url": "https://github.com/NicoMoralesDev/optimusctx/releases/download/v1.3.8/optimusctx_1.3.8_windows_arm64.zip",
+      "hash": "5e8094019996e4c28b0b32bb7e1e8e44950ce66e5f9843dfaa5fb53fea142ac0"
     }
   },
   "bin": "optimusctx.exe"
